@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/DavidBalishyan">Real/Personal github account</a>
-[] TODO: add profile picture
