@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbalishyan12&label=Profile%20views&color=0e75b6&style=flat" alt="davidbalishyan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidbalishyan" alt="davidbalishyan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidbalishyan12" alt="davidbalishyan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/david4613897512" target="blank"><img src="https://img.shields.io/twitter/follow/david4613897512?logo=twitter&style=for-the-badge" alt="david4613897512" /></a> </p>
 
